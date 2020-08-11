@@ -1,9 +1,9 @@
 # main text of home
 name: AwezGeo
-bio: A naive Geo-Lover exploring the Geo-world
+bio: A naive Geo-Lover learning to harness the significance of location intelligence in the provision of services
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about GIS and UAVs, everything tech
 
 # if it's an external image, update below for true
 # better with square images
@@ -17,7 +17,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+your url: https://awezgeo.github.io 
 
 permalink: /:title/
 
@@ -34,11 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+facebook: Awez Geo 
+twitter: AwezGeo
+instagram: AwezGeo
 # pinterest: mypinterest
-# linkedin: mylinkedin
+ linkedin:  Pascalina Awelana Abadum
+
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
@@ -50,21 +51,20 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
-
-authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+email: pwelana@gmail.com
+author:
+  AwezGeo:
+    name: Pascalina Awelana Abadum
+    bio: A naive Geo-Lover learning to harness the significance of location intelligence in the provision of services
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: AwezGeo
+  #jamesfoster:
+    #name: James Foster
+    #bio: A Man who develops software with coffee
+    #external-image: false
+    #picture: assets/images/james.jpg
+    #twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -74,7 +74,7 @@ width: normal
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
   enabled: false
-  sort_reverse: true # display recent posts first
+  sort_reverse: true  display recent posts first
   title: ":title" # Changing this will mess up the header display logic
   per_page: 5
   permalink: "/:num/" # pagination link that will be appended
