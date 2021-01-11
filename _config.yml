@@ -1,6 +1,6 @@
 # main text of home
-name: AwezGeo
-bio: A naive Geo-Lover learning to harness the significance of location intelligence in the provision of services
+name: Pascalina Awelana Abadum
+bio: A Geo-Lover harnessing the significance of location intelligence in the provision of services
 
 # twitter summary info
 description: A blog about GIS and UAVs, everything tech
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://awezgeo.github.io
 your url: https://awezgeo.github.io 
 
 permalink: /:title/
@@ -34,28 +34,28 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: Awez Geo 
+facebook: profile.php?id=100005342959103
 twitter: AwezGeo
 instagram: AwezGeo
 # pinterest: mypinterest
-linkedin:  Pascalina Awelana Abadum
+linkedin:  pascalina-awelana-abadum
 
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: AwezGeo
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: pwelana@gmail.com
 author:
   AwezGeo:
     name: Pascalina Awelana Abadum
-    bio: A naive Geo-Lover learning to harness the significance of location intelligence in the provision of services
+    bio: A Geo-Lover harnessing the significance of location intelligence in the provision of services
     external-image: false
     picture: assets/images/profile.jpg
     twitter: AwezGeo
@@ -69,11 +69,11 @@ author:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
-  enabled: false
+  enabled: true
   sort_reverse: true  display recent posts first
   title: ":title" # Changing this will mess up the header display logic
   per_page: 5
