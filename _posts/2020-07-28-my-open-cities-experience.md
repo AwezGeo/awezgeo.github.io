@@ -7,7 +7,7 @@ tag:
 - OSMgh
 - OpenCities Africa
 image: /assets/images/OCA-group-photo.jpg
-headerImage: false
+headerImage: true
 star: true
 category: blog
 author: AwezGeo
