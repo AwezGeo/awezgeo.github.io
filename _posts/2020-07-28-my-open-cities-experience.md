@@ -9,8 +9,8 @@ tag:
 image: /assets/images/OCA-group-photo.jpg
 headerImage: false
 star: true
-category: project
-author: Pascalina Awelana Abadum (AwezGeo)
+category: blog
+author: AwezGeo
 description: My OpenCities Accra encounter, an experience worth sharing
 ---
 
