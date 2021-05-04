@@ -1,12 +1,17 @@
 ---
+title:  "Participating in Open Cities Accra and being part of the FOSS community"
 layout: post
-title:  Participating in Open Cities Accra and being part of the FOSS community
-featured: 'assets/images/OCA-group-photo.jpg'
-headerImage: false
-author: guest
-tags: [opencities, accra]
+Date: 2020-07-28 22:10
+tag: OpenStreetMap, OSMgh, OpenCities Africa
 image: 'assets/images/OCA-group-photo.jpg'
-summary: In early September 2019, I, Pascalina Awelana Abadum a.k.a AwezGeo participated in the Open Cities Accra mapping project  both as a field data collector and a data cleaner. The experience from the project has been so overwhelming as it has offered me more than I anticipated.
+featured: 'assets/images/OCA-group-photo.jpg'
+headerImage: true
+projects: true
+hidden: false
+description: My OpenCities Accra encounter, an experience worth sharing
+category: project
+author: Pascalina Awelana Abadum (AwezGeo)
+externallink: false
 ---
 
 In early September last year, I was privileged to have been invited for the screening and briefing for [Open Cities Accra](https://opencitiesproject.org/accra/) at [Mobile Web Ghana](https://mobilewebghana.org) where we had a diversified team of engineers, photographers, planners amongst other amazing expertise with a good representation of both sexes.
